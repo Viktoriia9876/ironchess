@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow:/*search=*
+Disallow:/*countries=*
+Disallow:/*categories=*
+Disallow:/#calculator
+Disallow:/contacts
+Disallow:/request
+Disallow:/pravili-magazina
+
+User-Agent: YandexBot
+Disallow: /
+
+User-Agent: Yahoo
+Disallow: /
+Host: https://viktoriia9876.github.io/ironchess/
+Sitemap: https://viktoriia9876.github.io/ironchess/sitemap.xml
